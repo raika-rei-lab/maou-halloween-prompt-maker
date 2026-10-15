@@ -43,9 +43,9 @@ A free, bilingual (Japanese / English) prompt generator for Halloween-themed AI 
 
 ## 📄 ライセンス / License
 
-現時点ではライセンスを設定していません。公開リポジトリであることは、コードの自由な再利用・再配布を許可することを意味しません。
+このプロジェクトは **MIT License** で公開しています。改変・再配布・商用利用が可能です。再配布する際は著作権表示とライセンス文を残してください。詳細は [LICENSE](LICENSE) を参照してください。
 
-No license has been specified at this time. Public availability does not grant permission to freely reuse or redistribute the source code.
+This project is released under the **MIT License**. You may modify, redistribute, and use it commercially, provided that you retain the copyright and license notices. See [LICENSE](LICENSE).
 
 ---
 
